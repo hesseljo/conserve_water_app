@@ -1,0 +1,19 @@
+<data>
+ <table name="suggestions">
+  <column>id</column>
+  <column>name</column>
+  <row>
+   <value>1</value>
+   <value>give me more and more</value>
+  </row>
+ </table>
+ <table name="numbers">
+  <column>id</column>
+  <row>
+   <value>1</value>
+   <value>2</value>
+   <value>2</value>
+   <value>data</value>
+  </row>
+ </table>
+</data>

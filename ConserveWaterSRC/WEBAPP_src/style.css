@@ -1,0 +1,28 @@
+/* style.css by David Hite, March 2016 */
+body {
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+td {
+	text-align: center;
+}
+.menu {
+	padding: 10 40;
+	border: 1px solid black;
+	background: #669999;
+	font-size: 1.25em;
+	text-align: right;
+}
+
+.menu a {
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	color: #003333;
+	text-decoration: none;
+	cursor: pointer;
+	transition: color .25s;
+}
+
+.menu a:hover {
+	color: #c3fafa;
+	cursor: pointer;
+}
